@@ -1,0 +1,19 @@
+#================================================
+# Useful links to convert latex document to odt
+#================================================
+
+
+
+1) TtH - <url:http://hutchinson.belmont.ma.us/tth/tth-noncom/download.html>
+	a. TtH is used to convert the latex document to html
+2) pandoc - Type the following command to convert html file to odt
+	a. pandoc file.html -f html -t odt -s -o file.odt
+
+3) The reulting file i.e file.odt will have to be adjusted manually to look good.
+  
+
+4) Useful Link : 
+	a. <url:http://www.danwjoyce.com/data-blog/2018/2/20/latex-to-html-via-pandoc>
+	b. <url:https://www.tug.org/utilities/texconv/textopc.html>
+  
+ 
